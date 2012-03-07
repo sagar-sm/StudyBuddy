@@ -1,0 +1,13 @@
+* RELEASE NOTES (v1.0 - 7 March 2012)
+======================================
+Final installation xap file can be downloaded for free from the Windows Phone Marketplace link given below:
+(http://www.windowsphone.com/en-IN/apps/ece34440-320d-4fcc-841f-c1e7a4d9516e)
+
+--------------------------------------
+For using: 
+1.  Microsoft Visual Studio 2010 express edition or higher with WP7 developer tools (http://create.msdn.com)
+	must be installed.
+2.  Run the sln file in the root directory to open with VS2010.
+--------------------------------------
+
+Released under: Microsoft Public License (Ms-PL)
